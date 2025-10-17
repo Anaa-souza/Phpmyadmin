@@ -1,9 +1,8 @@
 ## 📚 Sistema de Gerenciamento de Biblioteca — MySQL + phpMyAdmin  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO?color=blue&style=for-the-badge)
+
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-Interface-yellow?style=for-the-badge&logo=phpmyadmin)
-![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 ---
 
