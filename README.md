@@ -6,7 +6,7 @@
 
 ---
 
-#🧠 Sobre o Projeto  
+## 🧠 Sobre o Projeto  
 Este projeto foi desenvolvido como parte de uma atividade prática de **Banco de Dados**, com o objetivo de criar e manipular um sistema de **empréstimos de livros**.  
 O ambiente utilizado foi o **phpMyAdmin**, permitindo a execução e visualização das tabelas em um banco **MySQL**.
 
