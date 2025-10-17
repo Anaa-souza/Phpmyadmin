@@ -20,7 +20,7 @@ O ambiente utilizado foi o **phpMyAdmin**, permitindo a execução e visualizaç
 
 ## 🗃️ Estrutura do Banco de Dados  
 
-####🧾 Tabela: `livros`  
+🧾 Tabela: `livros`  
 
 | Campo | Tipo | Descrição |
 |--------|------|-----------|
@@ -32,7 +32,7 @@ O ambiente utilizado foi o **phpMyAdmin**, permitindo a execução e visualizaç
 
 ---
 
-### 👥 Tabela: `usuario1`  
+ 👥 Tabela: `usuario1`  
 
 | Campo | Tipo | Descrição |
 |--------|------|-----------|
@@ -43,7 +43,7 @@ O ambiente utilizado foi o **phpMyAdmin**, permitindo a execução e visualizaç
 
 ---
 
-### 📅 Tabela: `empréstimo`  
+ 📅 Tabela: `empréstimo`  
 
 | Campo | Tipo | Descrição |
 |--------|------|-----------|
@@ -87,7 +87,9 @@ DELETE FROM livros WHERE id = 6;
 -- Remover empréstimos antigos (mais de 15 dias)
 DELETE FROM emprestimo WHERE Dataemprestimo < DATE_SUB(CURDATE(), INTERVAL 15 DAY);
 
+
+
 ✨ Autora
 
-👩‍💻 Ana Carolina
+👩🏽‍💻 Ana Carolina
 📧 anaacarolinafonsecasouza@gmail.com
